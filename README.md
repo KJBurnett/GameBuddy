@@ -4,6 +4,8 @@
 A newer version of this program is currently in the works, with significantly cooler visuals and speedier process management.
 New project can be found here: https://github.com/KJBurnett/Game-Manager-2.0
 
+--------------------------------------------------------------------------
+
 A manager for all of your Steam or DRM-free games.
 
 Features:
