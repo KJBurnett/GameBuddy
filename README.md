@@ -1,6 +1,6 @@
 # Game Buddy
 
-## Note
+### Note
 A newer version of this program is currently in the works, with significantly cooler visuals and speedier process management.
 New project can be found here: https://github.com/KJBurnett/Game-Manager-2.0
 
